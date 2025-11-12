@@ -85,8 +85,9 @@ com.epikason.miaapp2501exam
 
 ---
 ## 🧑‍💻 Author
+Iqbal Hossain Sourav
 
-Iqbal Hossain Sourav 
 📧 [princesourov41@gmail.com]
+
 💬 Built with ❤️ and Kotlin
 
