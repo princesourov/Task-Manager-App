@@ -54,30 +54,10 @@ This app allows users to **add**, **edit**, **delete**, and **view** tasks local
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/TaskManagerApp.git
----
-## 🧩 Folder Structure
 
-com.epikason.miaapp2501exam
-│
-├── data/
-│   ├── Task.kt
-│   ├── TaskDao.kt
-│   └── TaskDatabase.kt
-│
-├── ui/
-│   ├── MainActivity.kt
-│   ├── AddEditTaskActivity.kt
-│   └── TaskAdapter.kt
-│
-└── res/
-    ├── layout/
-    │   ├── activity_main.xml
-    │   ├── activity_add_edit_task.xml
-    │   └── item_task.xml
-    
 ---
 
-##🖼️ Screenshots 
+## 🖼️ Screenshots 
 
 | Task List                                                                   | Add/Edit Task                     |
 | --------------------------------------------------------------------------- | --------------------------------- |
