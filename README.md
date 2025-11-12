@@ -84,7 +84,7 @@ com.epikason.miaapp2501exam
 | ![Task List Screen](A_screenshot_of_a_Task_Manager_application_on_a_mo.png) | (Add Task screen screenshot here) |
 
 ---
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
 Iqbal Hossain Sourav 
 📧 [princesourov41@gmail.com]
