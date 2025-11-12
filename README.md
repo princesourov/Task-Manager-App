@@ -55,7 +55,8 @@ This app allows users to **add**, **edit**, **delete**, and **view** tasks local
    ```bash
    git clone https://github.com/yourusername/TaskManagerApp.git
 ---
-##🧩 Folder Structure
+## 🧩 Folder Structure
+
 com.epikason.miaapp2501exam
 │
 ├── data/
@@ -86,7 +87,6 @@ com.epikason.miaapp2501exam
 ##🧑‍💻 Author
 
 Iqbal Hossain Sourav 
-📧 [princesourov41@gmail.com
-]
+📧 [princesourov41@gmail.com]
 💬 Built with ❤️ and Kotlin
 
