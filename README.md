@@ -12,8 +12,7 @@ This app allows users to **add**, **edit**, **delete**, and **view** tasks local
 ✅ Delete tasks with a confirmation dialog  
 ✅ Store tasks locally using **Room Database**  
 ✅ View all tasks sorted by due date  
-✅ Simple and modern user interface  
-✅ (Optional) Search and filter support  
+✅ Simple and modern user interface 
 
 ---
 
@@ -43,8 +42,8 @@ This app allows users to **add**, **edit**, **delete**, and **view** tasks local
 |--------|------|-------------|
 | id | Int (Auto-generated) | Primary key |
 | title | String | Task title |
-| description | String? | Task details |
-| dueDate | Long? | Due date (in millis) |
+| description | String | Task details |
+| dueDate | String | Due date (in millis) |
 | isCompleted | Boolean | Task completion status |
 
 ---
