@@ -60,7 +60,8 @@ This app allows users to **add**, **edit**, **delete**, and **view** tasks local
 
 | Task List                                                                   | Add/Edit Task                     |
 | --------------------------------------------------------------------------- | --------------------------------- |
-| ![Task List Screen](A_screenshot_of_a_Task_Manager_application_on_a_mo.png) | (Add Task screen screenshot here) |
+| ![pic1](https://github.com/user-attachments/assets/8e1b8e54-4a93-4fa4-93fa-5aa5e3985505) | (Show Task screen screenshot here) |
+| ![p](https://github.com/user-attachments/assets/fa8b2c44-5a35-4726-8e44-3e187538a157) | (Add Task screen screenshot here) |
 
 ---
 ## 🧑‍💻 Author
@@ -69,4 +70,11 @@ Iqbal Hossain Sourav
 📧 [princesourov41@gmail.com]
 
 💬 Built with ❤️ and Kotlin
+
+
+
+
+
+
+
 
