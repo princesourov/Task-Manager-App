@@ -52,7 +52,7 @@ This app allows users to **add**, **edit**, **delete**, and **view** tasks local
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/TaskManagerApp.git
+   git clone https://github.com/princesourov/Task-Manager-App.git
 
 ---
 
@@ -64,13 +64,22 @@ This app allows users to **add**, **edit**, **delete**, and **view** tasks local
 
 
 ---
-## 🧑‍💻 Author
-Iqbal Hossain Sourav
 
-📧 [princesourov41@gmail.com]
+## 👨‍💻 Author
 
-💬 Built with ❤️ and Kotlin
+👤 Iqbal Hossain Sourav 
 
+💼 Android App Developer | 💻 Computer Science Student
+
+📧 Email: princesourov41@gmail.com
+
+🏢 Organization: MS Innovations
+
+🌍 From: Nilphamari, Bangladesh
+
+🌐 Website: epikason.weebly.com
+
+💬 Built with ❤️, Kotlin, and endless cups of coffee ☕
 
 
 
