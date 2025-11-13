@@ -58,10 +58,10 @@ This app allows users to **add**, **edit**, **delete**, and **view** tasks local
 
 ## 🖼️ Screenshots 
 
-| Task List                                                                   | Add/Edit Task                     |
-| --------------------------------------------------------------------------- | --------------------------------- |
-| ![pic1](https://github.com/user-attachments/assets/8e1b8e54-4a93-4fa4-93fa-5aa5e3985505) | (Show Task screen screenshot here) |
-| ![p](https://github.com/user-attachments/assets/fa8b2c44-5a35-4726-8e44-3e187538a157) | (Add Task screen screenshot here) |
+| Task List | Add/Edit Task |
+|:--:|:--:|
+| <img src="https://github.com/user-attachments/assets/8e1b8e54-4a93-4fa4-93fa-5aa5e3985505" width="250"/> | <img src="https://github.com/user-attachments/assets/fa8b2c44-5a35-4726-8e44-3e187538a157" width="250"/> |
+
 
 ---
 ## 🧑‍💻 Author
